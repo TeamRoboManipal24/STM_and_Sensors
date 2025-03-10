@@ -55,7 +55,8 @@ Prepare a detailed report on the following sensors and focus on **how ROS (Robot
 ### ✅ 4. Study & Document: Basic Sensors, Motors, and Drivers  
 
 #### 🔹 Sensors  
-- **HC-SR04 Ultrasonic Sensor**: Distance measurement, interfacing, typical use cases.  
+- **HC-SR04 Ultrasonic Sensor**: Distance measurement, interfacing, typical use cases.
+- [HC-SR04 PDF](https://github.com/TeamRoboManipal24/STM_and_Sensors/blob/main/LearningMaterial/HCSR04-datasheet-version-1.pdf)
 - **LSA08 Line Sensor Array**: Line-following robotics, interfacing, output format.  
 - **IR Sensors**: Obstacle detection, proximity sensing, interfacing basics.  
 
