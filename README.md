@@ -11,7 +11,7 @@ To build foundational knowledge on STM microcontrollers and essential sensors, s
 ### ✅ 1. Learn about STM Microcontrollers (STMs)  
 - Understand what **STM microcontrollers** are, including architecture and common series (e.g., **STM32**).  
 - Study their applications in **robotics, automation, and embedded systems**.  
-- Learn about **GPIO, I2C, SPI, UART** and how STMs interface with peripherals.  
+- [Learning material](https://www.st.com/resource/en/datasheet/cd00237391.pdf)  
 
 ---
 
