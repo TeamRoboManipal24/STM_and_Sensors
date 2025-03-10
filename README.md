@@ -18,9 +18,12 @@ To build foundational knowledge on STM microcontrollers and essential sensors, s
 ### ✅ 2. Install and Set Up PlatformIO on VS Code  
 - Install **Visual Studio Code (VS Code)** if not already installed.  
 - Install the **PlatformIO extension** for embedded system development.  
-- Verify installation by creating and running a **sample STM32 project**.  
+- Verify installation by creating and running a **sample STM32/Arduino project**.  
 - Understand how **PlatformIO manages libraries and toolchains** for STM32 development.  
-
+Setup Materials
+[Platform IO](https://platformio.org/)
+[Platform IO for Embedded](https://docs.platformio.org/en/latest/)
+[Platform IO in VSCode](https://platformio.org/install/ide?install=vscode)  
 ---
 
 ### ✅ 3. Research & Report: Perception Sensors and ROS Integration  
