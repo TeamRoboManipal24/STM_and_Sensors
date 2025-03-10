@@ -92,5 +92,7 @@ Prepare a detailed report on the following sensors and focus on **how ROS (Robot
 - Install and RUN STM32 CubeIDE and Code a Test Project on CubeIDE
 [STM32 CUBEIDE installation](https://docs.antares.id/en/getting-started/stm32-cube-ide-installation)
 
+
+##DEADLINE: 17/03/2025
 ---
 
