@@ -11,7 +11,7 @@ To build foundational knowledge on STM microcontrollers and essential sensors, s
 ### ✅ 1. Learn about STM Microcontrollers (STMs)  
 - Understand what **STM microcontrollers** are, including architecture and common series (e.g., **STM32**).  
 - Study their applications in **robotics, automation, and embedded systems**.  
-- [Learning material](https://www.st.com/resource/en/datasheet/cd00237391.pdf)  
+- [Learning material](https://www.st.com/resource/en/datasheet/stm32f411ce.pdf)  
 
 ---
 
@@ -57,8 +57,10 @@ Prepare a detailed report on the following sensors and focus on **how ROS (Robot
 #### 🔹 Sensors  
 - **HC-SR04 Ultrasonic Sensor**: Distance measurement, interfacing, typical use cases.
 - [HC-SR04 PDF](https://github.com/TeamRoboManipal24/STM_and_Sensors/blob/main/LearningMaterial/HCSR04-datasheet-version-1.pdf)
-- **LSA08 Line Sensor Array**: Line-following robotics, interfacing, output format.  
-- **IR Sensors**: Obstacle detection, proximity sensing, interfacing basics.  
+- **LSA08 Line Sensor Array**: Line-following robotics, interfacing, output format.
+- [LSA08 PDF](https://github.com/TeamRoboManipal24/STM_and_Sensors/blob/main/LearningMaterial/LSA08-Users-Manual-Jun12.pdf)
+- **IR Sensors**: Obstacle detection, proximity sensing, interfacing basics.
+- [IR SENSOR pdf](https://github.com/TeamRoboManipal24/STM_and_Sensors/blob/main/LearningMaterial/arduino-ir-infrared-obstacle-avoidance-sensor-module_(1).pdf)
 
 #### 🔹 Motors and Actuators  
 - **Servo Motors**: Working principle, control signals, applications.  
@@ -70,7 +72,8 @@ Prepare a detailed report on the following sensors and focus on **how ROS (Robot
 - Focus on:  
   - **Voltage/current ratings**.  
   - **Control interfaces (PWM, DIR)**.  
-  - Application circuits and usage examples.  
+  - Application circuits and usage examples. 
+  [MDD10A PDF](https://github.com/TeamRoboManipal24/STM_and_Sensors/blob/main/LearningMaterial/MDD10A_User_s_Manual_(1).pdf)
 
 ---
 
@@ -80,12 +83,14 @@ Prepare a detailed report on the following sensors and focus on **how ROS (Robot
   - IMU, LiDAR, Stereo Cameras, GPS with ROS integration.  
   - Basic sensors and motor driver analysis.  
 - 📑 Optional: Short summary on **STM32 basics**.  
-- 📷 **Screenshots** showing PlatformIO setup and running STM32 project.  
+- 📷 **Screenshots** showing PlatformIO setup and running STM32 project.
+- Create a **GitHub repository** to upload your PlatformIO test project and final report.  
 
 ---
 
 ## **Bonus (Optional)**  
-- Create a **GitHub repository** to upload your PlatformIO test project and final report.  
+- Install and RUN STM32 CubeIDE and Code a Test Project on CubeIDE
+[STM32 CUBEIDE installation](https://docs.antares.id/en/getting-started/stm32-cube-ide-installation)
 
 ---
 
